@@ -21,7 +21,7 @@ Si la chaîne de caractères comporte plusieurs mots :
 ```
 ## Exemple d'utilisation
 
-<img src="report/pictures/screen.PNG" alt="exemple-app">
+<img src="report/pictures/screen-app.PNG" alt="exemple-app">
 
-<img src="report/pictures/screen.PNG" alt="exemple-result">
+<img src="report/pictures/screen-result.PNG" alt="exemple-result">
 
